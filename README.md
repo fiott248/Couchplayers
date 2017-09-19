@@ -14,6 +14,6 @@ Here are the API used in this projects.
 
 <li><a href="https://market.mashape.com/igdbcom/internet-game-database/">IGDB API</a></li>
 <li><a href="https://cloudinary.com/">Cloudinary API</a></li>
-
+<li><a href="https://couchplayers.com">Couchplayers.com</a></li>
 
 After creating the accounts make sure that you will update the Project with your API keys.
