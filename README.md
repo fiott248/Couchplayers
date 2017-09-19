@@ -4,7 +4,7 @@ The aim of this project is to demonstrate how automation can be used to pull dat
 
 There are two types of php script files:
 <ol>
-<li> To search for the latest game releases and,</li>
+<li> To update for the latest game releases</li>
 <li> To search for a game by title.</li>
 </ol>
 Due to network speed lag only the thumbnail image is downloaded to Wordpress images. Before the thumbnail image is downloaded it is transformed to the appropriate resolution and quality.
@@ -16,4 +16,4 @@ Here are the API used in this projects.
 <li><a href="https://cloudinary.com/">Cloudinary API</a></li>
 <li><a href="https://couchplayers.com">Couchplayers.com</a></li>
 
-After creating the accounts make sure that you will update the Project with your API keys.
+After creating the accounts make sure that you will update the Project with your API keys. I have also included the Composer folder to include both API`s
